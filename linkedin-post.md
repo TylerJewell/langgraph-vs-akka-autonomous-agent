@@ -77,4 +77,4 @@ Repo with both sides runnable in the comments.
 
 Study: https://wtf.korridzy.com/twilight-of-the-gods/
 Akka AutonomousAgent: https://doc.akka.io/sdk/autonomous-agents.html
-Repo: <link>
+Repo: https://github.com/TylerJewell/langgraph-vs-akka-autonomous-agent
